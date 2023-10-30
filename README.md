@@ -1,2 +1,13 @@
-# pacmann_supercashier
-Pembuatan sistem kasir self-service dimana customer bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli dan harga item
+# Python Project: Pacmann Super Cashier
+## Deskripsi
+Pacmann Super Cashier adalah sistem kasir self-service yang dirancang untuk Andi's Supermarket dimana customer bisa langsung memasukkan nama item yang dibeli, jumlah item yang dibeli dan harga item. Sistem ini memudahkan customer dalam melakukan pembelian terutama bagi customer yang tidak berada di kota yang sama, agar masih bisa membeli di Andi's supermarket.
+
+## Fitur
+1.Menginput nama item, jumlah item dan harga item yang dibeli. Sistem memungkinkan customer menginput >1 item.
+
+2.Mengubah nama item, jumlah item dan harga item yang telah diinput sebelumnya sehingga memudahkan bagi customer yang sebelumnya salah input atau ingin mengubah item yang dibeli
+
+3.
+
+## Flowchart
+
