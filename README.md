@@ -4,7 +4,7 @@ Pacmann Super Cashier adalah sistem kasir self-service yang dirancang untuk Andi
 
 ## Fitur
 1.Menginput nama item, jumlah item dan harga item yang dibeli. Sistem memungkinkan customer menginput >1 item.
-
+![alt text](https://github.com/fanisenohusodo/pacmann_supercashier/blob/main/F1.PNG?raw=true)
 
 2.Mengubah nama item, jumlah item dan harga item yang telah diinput sebelumnya sehingga memudahkan bagi customer yang sebelumnya salah input atau ingin mengubah item yang dibeli.
 
