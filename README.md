@@ -43,7 +43,7 @@ Customer A berubah pikiran dan tidak jadi membeli di Andi's supermarket sehingga
 
 ![alt text](https://github.com/fanisenohusodo/pacmann_supercashier/blob/main/image/TC4.PNG?raw=true)
 
-### 5.Menampilkan total nilai yang perlu dibayar dan diskon yang didapat sesuai dengan total nominal pembelian.
+### 5.Menampilkan total nilai yang perlu dibayar dan diskon yang didapat sesuai dengan total nominal pembelian
 
 Setelah mengecek satu per satu item yang sudah terinput di keranjang belanja, customer A masuk ke perhitungan total nilai yang perlu dibayar.
 
