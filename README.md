@@ -14,7 +14,7 @@ Pacmann Super Cashier adalah sistem kasir self-service yang dirancang untuk Andi
 5.Menampilkan total nilai yang perlu dibayar dan diskon yang didapat sesuai dengan total nominal pembelian.
 
 ## Flowchart
-![alt text](https://github.com/fanisenohusodo/pacmann_supercashier/blob/main/image/Flowchart%20cashier.png?raw=true)
+![alt text](https://github.com/fanisenohusodo/pacmann_supercashier/blob/main/image/Flowchart_super_cashier.png?raw=true)
 
 ## Test Case
 1.Menginput beberapa item yang dibeli
